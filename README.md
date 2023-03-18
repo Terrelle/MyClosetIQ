@@ -1,2 +1,2 @@
 # MyClosetIQ
-A tool that predicts clothing size to make 
+A tool that uses body measurements to predict your size
