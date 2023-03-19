@@ -4,7 +4,7 @@ This is a web application built with Flask that uses machine learning algorithms
 
 # Installation
 
-Clone the repository: git clone https://github.com/terrelle/virtual-fitting-room.git
+Clone the repository: git clone https://github.com/Terrelle/MyClosetIQ.git
 Navigate to the project directory: cd virtual-fitting-room
 Create a virtual environment: python3 -m venv venv
 Activate the virtual environment: source venv/bin/activate
