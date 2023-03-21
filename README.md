@@ -1,6 +1,6 @@
 # Virtual Fitting Room
 
-This is a web application built with Flask that uses machine learning algorithms to predict the right clothing size for customers based on their body measurements. 
+This is a web application built with Flask that uses machine learning algorithms to predict the right clothing size for customers based on their body measurements. I built this as part of a Fashion Tech Hackathon.
 
 # Installation
 
@@ -16,11 +16,8 @@ Install the required packages: pip install -r requirements.txt
 Run the Flask application: python app.py
 Navigate to http://localhost:5000 in your web browser.
 Enter your body measurements in the input fields.
-Click on the "Predict size" button to see your predicted clothing size.
+Click on the "Find my size" button to see your predicted clothing size.
 
-# Credits
-
-This project was built by [Your Name]. Special thanks to [List of contributors] for their contributions to this project.
 
 # License
 
